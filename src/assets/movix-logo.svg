@@ -1,0 +1,8 @@
+<svg width="131" height="40" viewBox="0 0 131 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Draw the M3 text -->
+  <text x="10" y="30" font-family="Arial" font-size="24" font-weight="bold" fill="#FFA500">M3</text>
+  
+  <!-- Draw the video icon -->
+  <path d="M45 10H70V30H45V10ZM48 13V27L66 20L48 13Z" fill="#FFA500" />
+  <rect x="71" y="14" width="8" height="12" fill="#FFA500" />
+</svg>
